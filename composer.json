@@ -1,5 +1,5 @@
 {
-  "name": "mautic/fullContact",
+  "name": "mautic/plugin-fullcontact",
   "description": "Full Contact Plugin",
   "type": "mautic-plugin",
   "version": "1.0",
