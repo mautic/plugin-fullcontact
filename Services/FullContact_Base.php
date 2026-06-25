@@ -88,7 +88,7 @@ class FullContact_Base
      *
      * @return object
      */
-    public function setWebhookUrl($url, $id = null, $json = false)
+    public function setWebhookUrl($url, $id = null, $json = false): static
     {
         $this->_webhookUrl  = $url;
         $this->_webhookId   = $id;
