@@ -85,8 +85,6 @@ class FullContact_Base
      * @param string $url
      * @param string $id
      * @param bool   $json
-     *
-     * @return object
      */
     public function setWebhookUrl($url, $id = null, $json = false): static
     {
